@@ -5,8 +5,8 @@ criaCartao(
 )
 
 criaCartao(
-    'Agrinhho'
-    'Como produzir mais alimentos sem desmatar novas áreas?' ,
+    'Agrinhho',
+    'Como produzir mais alimentos sem desmatar novas áreas?', 
     'Aplicar a intensificação saudável.'
 )
 
@@ -24,7 +24,7 @@ criaCartao(
 
 criaCartao(
     'Agrinho',
-   'Como a rotação de culturas melhora a terra?'
+   'Como a rotação de culturas melhora a terra?',
     'repor matéria orgânica, fixar nutrientes essenciais, melhorar a estrutura física do solo e quebrar o ciclo de pragas e doenças.' ,
 )
 criaCartao(
@@ -48,23 +48,23 @@ criaCartao(
 criaCartao(
     'Agrinho',
     'Qual é o papel das árvores no meio da plantação?' ,
-    'focar em receitas caseiras naturais, plantio preventivo e controle biológico.'
+    'melhoram a saúde do solo, retêm umidade, protegem as lavouras contra ventos fortes.'
 )
 
 criaCartao(
     'Agrinho',
     'Como combater as pragas sem usar veneno químico?',
-    'O Fila Brasileiro.'
+    'manejo integrado, fortalecimento do solo e defensivos caseiros naturais.'
 )
 
 criaCartao(
     'Agrinho',
-    'Qual cachorro é usado como guia para pessoas cegas em muitos países?',
-    'O Labrador Retriever..'
+    'O que muda na fazenda com as mudanças do clima?',
+    ' janelas de plantio mais curtas, picos de calor extremo, chuvas irregulares e maior incidência de pragas.'
 )
 
 criaCartao(
     'Agrinho',
-    'Qual é a raça com olfato mais poderoso, usada em resgates e farejamentos?',
-    'O Bloodhound.'
+    'Como os drones ajudam a evitar o desperdício de insumos. ' ,
+    'través da pulverização localizada e do controle preciso da dosagem.'
 )
